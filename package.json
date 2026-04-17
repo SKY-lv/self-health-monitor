@@ -1,0 +1,7 @@
+{
+  "name": "self-health-monitor",
+  "version": "1.0.0",
+  "description": "AI Agent self-health monitoring. Memory, API calls, errors, latency tracking with optimization suggestions.",
+  "main": "health_monitor.js",
+  "license": "MIT"
+}
