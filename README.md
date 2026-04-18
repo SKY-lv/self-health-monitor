@@ -1,9 +1,21 @@
-# self-health-monitor
+# Self Health Monitor
 
-AI Agent self-health monitoring. Memory, API calls, errors, latency tracking with optimization suggestions.
+Real-time health monitoring for AI agents. Track memory usage, API latency, error rates, resource consumption.
+
+## Features
+
+- Memory monitoring
+- API latency tracking
+- Error rate analysis
+- Resource alerts
+- MIT Licensed
+
+## Install
 
 ```bash
-node health_monitor.js status
-node health_monitor.js check
-node health_monitor.js watch 3000
+openclaw skills install skylv-self-health-monitor
 ```
+
+## License
+
+MIT
